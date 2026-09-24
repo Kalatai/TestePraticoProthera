@@ -1,4 +1,5 @@
-package teste;
+import Classes.Funcionario;
+import Classes.Pessoa;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
